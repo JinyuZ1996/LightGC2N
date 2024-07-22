@@ -1,0 +1,2 @@
+model_checkpoint_path: "Hvideo_V.ckpt-10"
+all_model_checkpoint_paths: "Hvideo_V.ckpt-10"
