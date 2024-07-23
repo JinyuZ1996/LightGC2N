@@ -1,4 +1,4 @@
-# **SA-GC²N: Subspace Alignment-enhanced Graph Capsule Convolution Network (Tensorflow)** 
+# **SA-GC²N: Subspace Alignment-enhanced Graph Capsule Convolution Network (Tensorflow) (for peer review only)** 
 
 <p align="left">
   <img src='https://img.shields.io/badge/python-3.8.18-blue'>
