@@ -1,4 +1,4 @@
-# **SA-GC²N: Subspace Alignment-enhanced Graph Capsule Convolution Network (Tensorflow) (for peer review only)** 
+# **SA-GC²N: Subspace Alignment-enhanced Graph Capsule Convolutional Network (Tensorflow) (for peer review only)** 
 
 <p align="left">
   <img src='https://img.shields.io/badge/python-3.8.18-blue'>
@@ -9,7 +9,7 @@
 </p> 
 
 ## **Overall description** 
-- This repository contains the codebase and datasets for the SA-GC²N project, which is associated with our research paper titled "Lightweight yet Fine-grained: A Subspace Alignment-enhanced Graph Capsule Convolution Network for Shared-account Sequential Recommendation" submitted to AAAI 2025. The code provided here is exclusively for the purpose of anonymous peer review.
+- This repository contains the codebase and datasets for the SA-GC²N project, which is associated with our research paper titled "Lightweight yet Fine-grained: A Subspace Alignment-enhanced Graph Capsule Convolutional Network for Shared-account Sequential Recommendation" submitted to AAAI 2025. The code provided here is exclusively for the purpose of anonymous peer review.
 ## **Code description** 
 ### **Vesion of implementations and packages**
 The following versions of the programming language and libraries are used in this project:
