@@ -2,8 +2,8 @@
 
 from time import time
 import logging
-from SAGC2N.SA_train import *
-from SAGC2N.SA_model import *
+from LightGC2N.Light_train import *
+from LightGC2N.Light_model import *
 import warnings
 
 warnings.filterwarnings("ignore")

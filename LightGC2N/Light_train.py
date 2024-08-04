@@ -1,6 +1,6 @@
 # coding: utf-8
 
-from SAGC2N.SA_config import *
+from LightGC2N.Light_config import *
 import os
 
 param = ParamConf()

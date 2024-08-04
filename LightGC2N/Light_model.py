@@ -3,7 +3,7 @@
 import os
 import tensorflow as tf
 from tensorflow.keras import layers
-from SA_config import *
+from Light_config import *
 import random
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
