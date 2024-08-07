@@ -1,2 +1,6 @@
-model_checkpoint_path: "Hvideo_V.ckpt-10"
-all_model_checkpoint_paths: "Hvideo_V.ckpt-10"
+model_checkpoint_path: "Hvideo_E.ckpt-200"
+all_model_checkpoint_paths: "Hvideo_E.ckpt-140"
+all_model_checkpoint_paths: "Hvideo_E.ckpt-150"
+all_model_checkpoint_paths: "Hvideo_E.ckpt-170"
+all_model_checkpoint_paths: "Hvideo_E.ckpt-190"
+all_model_checkpoint_paths: "Hvideo_E.ckpt-200"

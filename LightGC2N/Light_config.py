@@ -15,8 +15,8 @@ class ParamConf:
         self.num_layers = 3
         self.num_folded = self.embedding_size
         self.alpha = 3  # the number of latent users
-        self.beta = 0.4  # the temperature of SSL loss
-        self.gamma = 0.3  # the participation of SSL loss
+        self.beta = 0.8  # the temperature of SSL loss
+        self.gamma = 0.8  # the participation of SSL loss
 
         # Training parameters
         self.learning_rate = 0.005

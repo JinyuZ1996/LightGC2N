@@ -11,7 +11,10 @@
 ## **Overall description** 
 - This repository contains the codebase and datasets for the LightGC²N project, which is associated with our research paper titled "Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation" submitted to AAAI 2025. The code provided here is exclusively for the purpose of anonymous peer review.
 ## **Code description** 
-### **Vesion of implementations and packages**
+### **Implementation details**
+We implemented LightGC²N with TensorFlow and accelerated the model training using an Intel® Xeon® Silver 4210 CPU @ 2.20GHz CPU and NVIDIA RTX 3090 (24G) GPU. The operating system is Ubuntu 22.04, the system memory is 126G, and the coding platform is Pycharm.
+
+### **Vesion of packages**
 The following versions of the programming language and libraries are used in this project:
 
 1. python = 3.8.18
@@ -20,7 +23,7 @@ The following versions of the programming language and libraries are used in thi
 4. scipy = 1.7.3
 5. pandas = 1.1.5
 6. numpy = 1.17.3
-### **Source code of EA-GPS**
+### **Source code of LightGC²N**
 The source code for the LightGC²N is organized as follows:
 
 1. Main components definition: Located in `LightGC2N/LightGC2N/Light_model.py`.
