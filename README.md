@@ -1,4 +1,4 @@
-# **LightGC²N: A Lightweight Graph Capsule Convolutional Network with Subspace Alignment (Tensorflow) (for peer review only)** 
+# **LightGC²N: A Lightweight Graph Capsule Convolutional Network with Subspace Alignment (Tensorflow)** 
 
 <p align="left">
   <img src='https://img.shields.io/badge/python-3.8.18-blue'>
