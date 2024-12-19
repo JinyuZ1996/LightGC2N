@@ -9,7 +9,7 @@
 </p> 
 
 ## **Overall description** 
-- This repository contains the codebase for the LightGC²N project, which is associated with our research paper titled "Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation" accepted AAAI 2025. The datasets are also released at [ [https://bitbucket.org/jinyuz1996/lightgc2n_data/src/main/](https://bitbucket.org/jinyuz1996/lightgc2n_data/src/main/) ].
+- This repository contains the codebase and datasets for the LightGC²N project, which is associated with our research paper titled "Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation" (Accepted by AAAI 2025).
 ## **Code description** 
 ### **Implementation details**
 We implemented LightGC²N with TensorFlow and accelerated the model training using an Intel® Xeon® Silver 4210 CPU @ 2.20GHz CPU and NVIDIA RTX 3090 (24G) GPU. The operating system is Ubuntu 22.04, the system memory is 126G, and the coding platform is Pycharm.
